@@ -1,4 +1,4 @@
-name: SUBZERO-MD-DEPLOY
+name: HASSAN-MH-DEPLOY
 on:
   workflow_dispatch:
 jobs:
